@@ -16,14 +16,14 @@
 ### Revenue & Users Dynamics
 Аналітичний проєкт з використанням SQL та Tableau для аналізу динаміки доходів, утримання користувачів та ключових продуктових метрик.
 
-🔗 Посилання на репозиторій: *(додаси посилання)*
+🔗 Посилання на репозиторій: (https://github.com/oksana-kuzhel-analytics/sql-tableau-analytics-project)
 
 ---
 
-### Google Sheets Analytics Project
+### Delivery sales analysis
 Проєкт аналізу даних у Google Sheets із використанням формул, фільтрів та візуалізацій.
 
-🔗 Посилання на репозиторій: *(додаси посилання)*
+🔗 Посилання на репозиторій: (https://github.com/oksana-kuzhel-analytics/delivery-sales-analysis)
 
 ---
 
@@ -36,6 +36,6 @@
 
 ## 📫 Контакти
 
-- GitHub: https://github.com/your-profile
-- Email: your_email@example.com
-- LinkedIn: *(за бажанням)*
+- GitHub: (https://github.com/oksana-kuzhel-analytics)
+- Email: kuzhel.o.n1990@outlook.com
+- LinkedIn: (https://www.linkedin.com/in/oksana-kuzhel-80298035a/)
